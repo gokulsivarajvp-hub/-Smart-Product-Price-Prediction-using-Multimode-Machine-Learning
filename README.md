@@ -1,0 +1,2 @@
+# -Smart-Product-Price-Prediction-using-Multimode-Machine-Learning
+ This project presents an effective approach to automated product price prediction using multimodal data fusion. The  integration of textual semantics and visual cues enables the model to better understand product attributes and fair  pricing. The methodology is scalable and can be extended for real-world e-commerce pricing optimization systems.
